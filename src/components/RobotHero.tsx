@@ -256,7 +256,7 @@ export const RobotHero: React.FC<RobotHeroProps> = ({ isDarkTheme, onOpenChat })
           ======================================================== */}
       <div className="absolute inset-0 w-full h-full pointer-events-none">
         <img
-          src="../assets/images/ventura_crt_robot_hero_1791995045522.jpg"
+          src="/ventura_crt_robot_hero_1791995045522.jpg"
           alt="Ventura CRT Robot Body & Chassis"
           className="w-full h-full object-cover object-center pointer-events-none"
           loading="eager"
@@ -278,7 +278,7 @@ export const RobotHero: React.FC<RobotHeroProps> = ({ isDarkTheme, onOpenChat })
         }}
       >
         <img
-          src="../assets/images/ventura_crt_robot_hero_1791995045522.jpg"
+          src="/ventura_crt_robot_hero_1791995045522.jpg"
           alt="Ventura CRT Head Monitor"
           className="w-full h-full object-cover object-center pointer-events-none"
           loading="eager"
