@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ventura — LLM Engineer Portfolio",
+  "description": "Premium LLM Engineer portfolio featuring a retro CRT robot, colourful modern interface, and functional AI engineering demonstrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
