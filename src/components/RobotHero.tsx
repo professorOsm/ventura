@@ -278,7 +278,7 @@ export const RobotHero: React.FC<RobotHeroProps> = ({ isDarkTheme, onOpenChat })
         }}
       >
         <img
-          src="/src/assets/images/ventura_crt_robot_hero_1791995045522.jpg"
+          src="src/assets/images/ventura_crt_robot_hero_1791995045522.jpg"
           alt="Ventura CRT Head Monitor"
           className="w-full h-full object-cover object-center pointer-events-none"
           loading="eager"
